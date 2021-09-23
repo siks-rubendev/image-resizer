@@ -6,3 +6,4 @@ You will need to ensure that the following requirements are satisfied before sta
 ## Quickstart
 * `>> pip install -r requirements.txt`
 * `>> python main.py`
+Use the folder ### input img to store the images you need to resize. They will be saved at ## output img
